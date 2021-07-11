@@ -1,0 +1,143 @@
+#globe{
+		height: 100vh;
+		width: 100%;
+		
+}
+
+#bg{
+		position:absolute;
+		top: 144px;
+		height: 100%;
+		width: 100%;
+		z-index: 50;
+	}
+	
+#map{
+		position: absolute;
+		left: 30vw;
+		height: 96%;
+		top: 146px;
+		z-index: 10;
+}
+
+.pin{
+	height: 45px;
+}
+
+#p-van{
+	position:absolute;
+	top: 405px;
+	left: 730px;
+}
+
+#p-van:hover{
+	height:60px;
+	top: 385px; 
+}
+
+#p-ny{
+	position:absolute;
+	top: 436px;
+	left: 850px;
+}
+
+#p-ny:hover{
+	height:60px;
+	top: 416px; 
+}
+
+#p-rio{
+	position: absolute;
+	top: 605px;
+	left: 907px;
+}
+
+#p-rio:hover{
+	height:60px;
+	top: 585px;
+}
+
+#p-par{
+	position: absolute;
+	top: 396px;
+	left: 1004px;
+}
+
+#p-par:hover{
+	height:60px;
+	top: 376px;
+}
+
+#p-giz{
+	position: absolute;
+	top: 450px;
+	left: 1070px;
+}
+
+#p-giz:hover{
+	height:60px;
+	top: 434px;
+}
+
+#p-dub{
+	position: absolute;
+	top: 465px;
+	left: 1135px;
+}
+
+#p-dub:hover{
+	height:60px;
+	top: 455px;
+}
+
+#p-ker{
+	position: absolute;
+	top: 496px;
+	left: 1193px;
+}
+
+#p-ker:hover{
+	height:60px;
+	top: 477px;
+}
+
+#p-seo{
+	position: absolute;
+	top: 430px;
+	left: 1306px;
+}
+
+#p-seo:hover{
+	height:60px;
+	top: 417px;
+}
+
+#p-tok{
+	position: absolute;
+	top: 434px;
+	left: 1336px;
+}
+
+#p-tok:hover{
+	height:60px;
+	top: 419px;
+}
+
+#p-syd{
+	position: absolute;
+	top: 620px;
+	left: 1387px;
+}
+
+#p-syd:hover{
+	height:60px;
+	top: 603px;
+}
+
+h1{
+	
+	z-index: 1000;
+	position: absolute;
+	color: white;
+	top: 140px;
+}
